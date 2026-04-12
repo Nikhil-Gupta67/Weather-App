@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment variables
+.env
+
+# runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
