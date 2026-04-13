@@ -1,4 +1,4 @@
-# Weather App
+# Weather App--
 
 A simple and intuitive web application that provides real-time weather information for any city in the world using the OpenWeatherMap API.
 
