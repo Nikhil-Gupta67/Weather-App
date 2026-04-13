@@ -2,7 +2,7 @@
 
 A simple and intuitive web application that provides real-time weather information for any city in the world using the OpenWeatherMap API.
 
-## Features
+## Features--
 
 - 🌍 Search weather by city name
 - 🌡️ Display current temperature in Celsius
