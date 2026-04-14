@@ -11,7 +11,7 @@ A simple and intuitive web application that provides real-time weather informati
 - 🎨 Clean and responsive user interface
 - 📱 Mobile-friendly design
 
-## Prerequisites
+## Prerequisites--
 
 Before you begin, ensure you have the following installed:
 
