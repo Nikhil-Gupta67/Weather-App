@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - npm (comes with Node.js)
 
-## Installation
+## Installation--
 
 1. **Clone or download the project**
 
