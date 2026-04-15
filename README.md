@@ -60,7 +60,7 @@ Weather/
 └── README.md       # This file
 ```
 
-## Technologies Used
+## Technologies Used--
 
 - **Frontend:**
   - HTML5
