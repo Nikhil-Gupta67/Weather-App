@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
    - Click the "Get Weather" button
    - View the current weather information for that city
 
-## Project Structure
+## Project Structure--
 
 ```
 Weather/
