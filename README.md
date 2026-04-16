@@ -91,7 +91,7 @@ Weather/
    - Wind speed
    - Weather icon
 
-## API Configuration
+## API Configuration--
 
 This application uses the OpenWeatherMap API. The API key is configured in `server.js`.
 
