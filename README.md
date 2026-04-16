@@ -77,7 +77,7 @@ Weather/
 - **Dependencies:**
   - [axios](https://github.com/axios/axios) - HTTP client for API calls
 
-## How It Works
+## How It Works--
 
 1. User enters a city name in the web interface
 2. The client sends a request to the local Node.js server
